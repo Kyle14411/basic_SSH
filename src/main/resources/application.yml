@@ -8,7 +8,7 @@ Spring:
     name£º base_ssh
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://localhost:3306/authority?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver
