@@ -2,7 +2,6 @@ server:
   port: 8080
   servlet:
     context-path: /
-
 Spring:
   application:
     name: base_ssh
